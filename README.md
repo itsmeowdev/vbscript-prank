@@ -54,6 +54,12 @@ These scripts **should not** be used to:
 
 ---
 
+## ⭐ Support This Project
+
+If you find this repository fun or helpful, please consider giving it a **star** ⭐ and **forking** it to your own account! Your support encourages me to create more content like this.
+
+---
+
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE).  
